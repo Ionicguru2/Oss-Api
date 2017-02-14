@@ -1,0 +1,1 @@
+3rd Party validation on the product {{ $transaction->product->title }} ( Transaction no: {{ $transaction->id }}) has passed successfully.

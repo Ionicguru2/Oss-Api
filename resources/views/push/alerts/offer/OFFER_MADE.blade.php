@@ -1,0 +1,1 @@
+{{ $offer->user->identifier }} has made an offer on your post {{ $offer->product->title }}

@@ -1,0 +1,1 @@
+You have denied an offer on your product {{ $offer->product->title }}

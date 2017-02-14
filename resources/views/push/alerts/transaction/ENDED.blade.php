@@ -1,0 +1,1 @@
+Your transaction: "{{ $transaction->product->title }}" has ended.

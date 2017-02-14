@@ -1,0 +1,1 @@
+Your offer confirmation was declined for {{ $offer->product->title }}

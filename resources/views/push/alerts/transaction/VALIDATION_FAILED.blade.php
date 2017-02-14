@@ -1,0 +1,1 @@
+This offer was denied because it did not pass 3rd Party validation on the product {{ $transaction->product->title }} ( Transaction no: {{ $transaction->id }}).

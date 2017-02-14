@@ -1,0 +1,1 @@
+You have confirmed the acceptance of your offer on {{ $offer->product->title }}

@@ -1,0 +1,1 @@
+This offer was been approved: {{ $transaction->product->title }} ( Transaction no: {{ $transaction->id }})		
